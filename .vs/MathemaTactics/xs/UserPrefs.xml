@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E527CE8A-C55B-9A27-55C2-63AE5A5EB5C5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InGameSceneManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="144" Column="36" />
+      <File FileName="Assets/Scenes/Scripts/MainMenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CombatManager.cs" Line="166" Column="9" />
+      <File FileName="Assets/Scenes/Scripts/TutorialScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TutorialSceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Credits.cs" Line="8" Column="9" />
+      <File FileName="Assets/Scripts/InGameSceneManager.cs" Line="14" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
